@@ -1,0 +1,6 @@
+{
+  "name": "Creative Asset Studio",
+  "description": "An interactive vector design workspace to procedurally generate, customize, preview, and export high-quality SVGs, CSS backgrounds, app icons, and developer assets with real-time device mockups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
